@@ -1,7 +1,7 @@
 <!-- WAVE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=200&section=header&text=Neo&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=200&section=header&text=Welcome&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<h1 align="center">Hi 👋 I'm Neo</h1>
+<h1 align="center">Hi 👋 I'm A9TiL</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Engineering...;Learning+Programming;Exploring+Electronics;Building+Every+Day" />
@@ -18,7 +18,7 @@
 
 ## 🧠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,c++,java,mysql,git,github,vscode,html,css,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,git,github,vscode,html,css,tailwind,bootstrap" />
 </p>
 
 ---
